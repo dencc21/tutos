@@ -4,3 +4,7 @@
     color: white;
     text-align: center;
 }
+.text span:hover{
+    color: brown;
+    transition: 0.7s;
+}
